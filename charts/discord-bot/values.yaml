@@ -26,15 +26,13 @@ discord-bot:
     #    hosts:
     #      - chart-example.local
   settings:
-    general:
-      logLevel: debug
-      apiToken:
     database:
       url:
     discord:
       applicationId:
       botToken:
-    auth0:
-      domain:
-      clientId:
-      audience:
+    jwt:
+      secret:
+    config:
+      corsOrigin:
+      botGrpcUrl:
