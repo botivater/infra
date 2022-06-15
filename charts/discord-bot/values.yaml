@@ -35,3 +35,4 @@ discord-bot:
       secret:
     config:
       botGrpcUrl:
+      botAdminPanelUrl:
