@@ -28,5 +28,5 @@ dependencies:
     version: 0.1.4
     repository: https://jonasclaes.github.io/helm-cloudflared
   - name: discord-bot
-    version: 0.2.5
+    version: 0.2.6
     repository: https://botivater.github.io/charts
