@@ -4,6 +4,6 @@ dependencies:
   version: 0.1.4
 - name: discord-bot
   repository: https://botivater.github.io/charts
-  version: 0.2.6
-digest: sha256:1bb0089404340acdcd641662a833f84045eb9e753f65272787f4d6269af26fb8
-generated: "2022-06-15T18:34:27.643401126+02:00"
+  version: 0.2.7
+digest: sha256:03203d7b48215096170480e21296e975652a118e3371645c59f09b7cec2a6e44
+generated: "2022-06-15T21:08:19.178528279+02:00"
