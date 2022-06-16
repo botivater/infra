@@ -36,3 +36,5 @@ discord-bot:
     config:
       botGrpcUrl:
       botAdminPanelUrl:
+    openai:
+      apiKey:
