@@ -25,7 +25,7 @@ appVersion: "0.1.7"
 
 dependencies:
   - name: cloudflared
-    version: 0.1.4
+    version: 2022.6.3
     repository: https://jonasclaes.github.io/helm-cloudflared
   - name: discord-bot
     version: 2.3.3
