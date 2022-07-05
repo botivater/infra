@@ -10,6 +10,6 @@ dependencies:
   version: 2.5.5
 - name: api
   repository: https://botivater.github.io/charts
-  version: 2.5.6
-digest: sha256:2794748df30775e68a59789c403161ad590d2294d50fa3db545ee50ca82b45cf
-generated: "2022-07-05T11:46:50.497193723+02:00"
+  version: 2.5.7
+digest: sha256:3856d4ffcc204746f8741f600e36254709f18df0b17c8c6a80a155468facd296
+generated: "2022-07-05T12:54:56.02243276+02:00"
