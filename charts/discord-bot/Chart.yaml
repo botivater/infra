@@ -15,13 +15,13 @@ type: application
 # This is the chart version. This version number should be incremented each time you make changes
 # to the chart and its templates, including the app version.
 # Versions are expected to follow Semantic Versioning (https://semver.org/)
-version: 0.3.7
+version: 0.3.8
 
 # This is the version number of the application being deployed. This version number should be
 # incremented each time you make changes to the application. Versions are not expected to
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
-appVersion: "0.3.7"
+appVersion: "0.3.8"
 
 dependencies:
   - name: cloudflared
@@ -31,8 +31,8 @@ dependencies:
     version: 10.1.12
     repository: https://charts.bitnami.com/bitnami
   - name: discordbot
-    version: 2.5.5
+    version: 2.5.8
     repository: https://botivater.github.io/charts
   - name: api
-    version: 2.5.7
+    version: 2.5.8
     repository: https://botivater.github.io/charts
