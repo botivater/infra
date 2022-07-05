@@ -2,8 +2,14 @@ dependencies:
 - name: cloudflared
   repository: https://jonasclaes.github.io/helm-cloudflared
   version: 2022.6.3
-- name: discord-bot
+- name: rabbitmq
+  repository: https://charts.bitnami.com/bitnami
+  version: 10.1.12
+- name: discordbot
   repository: https://botivater.github.io/charts
-  version: 2.5.4
-digest: sha256:28ebbb588355e1cc02e2e9fe0fc2be07576e6deef6a0dd726e487974c3deb612
-generated: "2022-06-29T14:38:32.324740529+02:00"
+  version: 2.5.5
+- name: api
+  repository: https://botivater.github.io/charts
+  version: 2.5.5
+digest: sha256:0dc605b971236992b053537c4aca40958fbad2b31b7a951a3093f260e51f600e
+generated: "2022-07-05T07:44:12.419921553+02:00"
