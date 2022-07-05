@@ -20,6 +20,7 @@ rabbitmq:
     default_permissions.write = .*
 
 discordbot:
+  replicaCount: 1
   settings:
     database:
       url:
@@ -33,6 +34,7 @@ discordbot:
       apiKey:
 
 api:
+  replicaCount: 1
   ingress:
     enabled: false
     className: ""
