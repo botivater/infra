@@ -12,16 +12,6 @@ fullnameOverride: "botivater"
 cloudflared:
   token:
 
-rabbitmq:
-  auth:
-    username:
-    password:
-  extraConfiguration: |-
-    default_vhost = bot
-    default_permissions.configure = .*
-    default_permissions.read = .*
-    default_permissions.write = .*
-
 discordbot:
   replicaCount: 1
   settings:
